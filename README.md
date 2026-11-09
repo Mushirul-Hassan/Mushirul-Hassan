@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090a1a,50:29235c,100:00b8b8&height=220&section=header&text=MUSHIRUL&fontSize=65&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=BUILDING%20BEYOND%20THE%20SURFACE&descSize=14&descAlignY=60&descColor=9efcff" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=65F4E7&center=true&vCenter=true&width=650&lines=Hello%2C+world.+I'm+Mushirul.;Backend+developer+in+the+making.;I+like+understanding+how+things+work.;Building+ideas+into+real+software." alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=65F4E7&center=true&vCenter=true&width=650&lines=Hello%2C+world.+I'm+Mushirul.;I+like+understanding+how+things+work.;Building+ideas+into+real+software." alt="Typing animation" />
 
 <br/>
 
