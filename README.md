@@ -1,15 +1,14 @@
-## Hi there 👋
+# Hi, I'm Mushirul 👋
 
-<!--**Mushirul-Hassan/Mushirul-Hassan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A web developer interested in building software and understanding how things work.
 
-Here are some ideas to get you started:-->
+- 🔭 Currently working on [Snip](https://github.com/Mushirul-Hassan/Snip)
 
-- 🔭 I’m currently working on Snip
-- 🌱 I’m currently learning Docker
-- 👯 I’m looking to collaborate on SaaS Projects
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about Web
-- 📫 How to reach me: mushirulhassan2@gmail.com
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
-  
+- 🌱 Currently learning  backend development
+
+- 👯 Open to collaborating on SaaS projects
+
+- 💬 Ask me about JavaScript, Node.js and web development
+
+- 📫 Reach me at: mushirulhassan2@gmail.com
+
