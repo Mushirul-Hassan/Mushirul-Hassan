@@ -1,4 +1,4 @@
-# Hi, I'm Mushirul 👋
+# Hi, I'm Mushir 👋
 
 A web developer interested in building software and understanding how things work.
 
